@@ -1,3 +1,6 @@
+> **ARCHIVED — Superseded by [winstack-network](https://github.com/Wise-Est-Systems/winstack-network).**
+> Kept read-only for historical reference. The successor repo carries the canonical \ tag implementation.
+
 # WIN Packet (Winstack) — v0.3.0
 
 **Goal:** Make files self-verifying.
